@@ -1,1 +1,3 @@
-# Basic-image-classification
+# Basic-image-classification-简单的服装图像识别
+使用tensoflow和keras构造的图像识别模型，可以识别十种服装
+使用fashion-mnist数据集为训练用数据
